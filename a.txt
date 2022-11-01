@@ -2,4 +2,8 @@ hiii,how r u .....?
 123456789
 at what time u call for me as iam waiting for ur call.....
 welcome here
+<<<<<<< HEAD
 fuck up man......
+=======
+what is ur prblm man why u r brhaving like this.?
+>>>>>>> ef8ba46721730ddb72e6935689c850a46eebab5c
